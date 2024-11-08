@@ -1,0 +1,86 @@
+.body{
+    background-color: white;
+    
+}
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main-container{
+  background-color: hsla(344, 93%, 53%, 0.856);
+  display: flex;
+  justify-content: space-between;
+  
+  border-bottom-left-radius: 40px;
+  height: 500px;
+  width: 800px;
+}
+.left-container input{
+  width: 50px;
+  
+}
+.left-container{
+  margin-left: 80px;
+  margin-top: 80px;
+.left-container h1{
+  width: 50px;
+  color: white;
+  
+}
+.left-container {
+  display: flex;
+  flex-direction: column;
+  width: 50px;
+  color: rgba(255, 255, 255, 0.441);
+  
+}
+.first-part{
+    column-gap: 2px;
+}
+.first-part p{
+  color: rgba(255, 255, 255, 0.622);
+margin-top: 0px;
+  column-gap: 8px;
+}
+.first-part h1{
+   color: rgb(255, 255, 255);
+   column-gap: 8px;
+   margin-bottom: 0px;
+}
+
+.second-part p{
+  color: rgba(255, 255, 255, 0.622);
+  margin-bottom: 0px;
+}
+
+.second-part h1{
+  color: white;
+  margin-top: 0px;
+}
+.thirt-part p{
+  color: rgba(255, 255, 255, 0.622);
+  margin-bottom: 0px;
+}
+
+.thirt-part h1{
+  color: white;
+  margin-top: 0px;
+}
+
+.forthPart p{
+  color: rgba(255, 255, 255, 0.622);
+  margin-bottom: 0px;
+
+}
+
+.forthPart h1{
+  color: white;
+  margin-top: 0px;
+
+}
+
+.right-containerr img{
+    width: 1000px;
+    height: 1000px;
+}
