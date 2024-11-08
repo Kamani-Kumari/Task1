@@ -6,6 +6,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    
 }
 .main-container{
   background-color: hsla(344, 93%, 53%, 0.856);
@@ -77,10 +78,19 @@ margin-top: 0px;
 .forthPart h1{
   color: white;
   margin-top: 0px;
-
 }
 
 .right-containerr img{
     width: 1000px;
     height: 1000px;
+}
+.second-part-main{
+     
+     display: flex;
+  justify-content: end;
+  align-items: center;
+}
+.second-part-main img{
+   height: 90px;
+   width: 80px;    
 }
